@@ -34,7 +34,8 @@ A **Java-based console application** to manage urban waste collection schedules 
 - **Exception Handling** – Validation, complaint, and transaction errors
 
 ## Output Screenshot
-<img width="1403" height="216" alt="image" src="https://github.com/user-attachments/assets/39781c1a-705f-48fb-a4c7-77f180e5dfc4" />
+<img width="1409" height="378" alt="image" src="https://github.com/user-attachments/assets/2801d2c5-8610-447c-b270-4da95c5b7cc2" />
+
 
 
 
